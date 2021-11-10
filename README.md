@@ -33,7 +33,7 @@ Finalmente, el programa debe imprimir la suma de los valores en las posiciones o
 3
 2 2 2
 3 3 3
-4 4 4
+4 2 1
 ```
 
 #### Constraints
@@ -43,7 +43,7 @@ No se requiere textos al ingresar valores (std::cout)
 
 #### Output Format
 ```cpp
-192 648 1536
+48 324 192
 ```
 
 **Ejemplo #2**
