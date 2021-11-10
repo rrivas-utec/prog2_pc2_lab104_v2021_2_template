@@ -93,7 +93,7 @@ No se requiere textos al ingresar valores (std::cout)
 ### Pregunta #3 - Suma de Fuerzas (7 points)
 
 La fuerza en planos cartesianos de 3 dimensiones se representa por tres componentes de la forma: `F = (ai + bj + ck)` donde `a` es el componente en el eje `x`, `b` es el componente de la fuerza en el eje `y` y `c` es el componente de la fuerza en el eje `z`.  
-Definir una clase que represente un monomio `class fuerza_t` y escribir un programa que permita generar un vector de fuerzas de tamaño `n` que lea desde el teclado los 3 componentes para cada uno de los `n` fuerzas.
+Definir una clase que represente una fuerza `class fuerza_t` y escribir un programa que permita generar un vector de fuerzas de tamaño `n` que lea desde el teclado los 3 componentes para cada uno de los `n` fuerzas.
 El programa deberá ordenar las fuerzas de menor magnitud a mayor magnitud y generar de ese vector ordenado una nueva fuerza resultante de la suma de las `n/2` primeras fuerzas.
 
 **Ejemplo #1**
