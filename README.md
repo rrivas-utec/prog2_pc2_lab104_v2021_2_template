@@ -21,7 +21,7 @@
     - Capacidad para aplicar conocimientos de matemática.(nivel 2)
     - Capacidad para diseñar un sistema, un componente o un proceso para satisfacer las necesidades deseadas dentro de restricciones realistas(nivel 2)
 
-### Pregunta #1 - Suma de filas y columnas (7 points)
+### Pregunta #1 - Sumas de filas y columnas opuestas (7 points)
 
 Escribir un programa que utilizando matrices y arreglos dinámicos, lea desde el teclado una matriz de números enteros de tamaño `n x n`, que calcule el producto de cada fila, almacenado los resultados en un arreglo de tamaño `n`, de igual modo realizar el mismo cálculo con las columnas, almacenado también los resultados en un arreglo de tamaño `n`.
 
